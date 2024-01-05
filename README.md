@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solganytb
 - 👀 I’m interested by coding
-- 🌱 I’m currently learning html, css, py
+- 🌱 I’m currently learning html, css, skript
 - 📫 How to reach me solgan.yt.pro@gmail.com
 
 <!---
